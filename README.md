@@ -31,7 +31,7 @@
   <a href="mailto:harshi2001wanniarachchi@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/harshi2001m">
+  <a href="https://harshi2001m.github.io/portfolio/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
