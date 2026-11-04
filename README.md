@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:000000,100:a371f7&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Harshi&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img align="right" alt="Cording" width="200" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 <p align="left"> 
     <a href="https://komarev.com/ghpvc/?username=harshi2001m">
@@ -10,7 +11,6 @@
 - I am a self-motivated, focused and innovative IT Undergraduate.I get delight from applying accepted analytical techniques and technological ideas to solve challenges.
 
 ## 📊 GitHub Stats & Trophies
-<img align="right" alt="Cording" width="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 <p align="center">
   <a href="https://github.com/harshi2001m">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshi2001m&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="harshi2001m's GitHub Stats" />
