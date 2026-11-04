@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:000000,100:a371f7&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Harshi&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:000000,100:a371f7&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Harshi&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=harshi2001m">
@@ -7,14 +7,6 @@
 </p>
 
 <img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-
-
-## 🧠 My Focus Areas
-- Web Development
-- Mobile App Development
-- AI/ML Research
 
 
 ## 📊 GitHub Stats & Trophies
