@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:000000,100:a371f7&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Harshi&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<h1 align="center">Hi 👋, I'm Harshi</h1>
+<h3 align="center">Developer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=harshi2001m">
@@ -7,6 +8,14 @@
 </p>
 
 <img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+
+
+## 🧠 My Focus Areas
+- Web Development
+- Mobile App Development
+- AI/ML Research
 
 
 ## 📊 GitHub Stats & Trophies
@@ -17,7 +26,7 @@
   <img src="https://streak-stats.demolab.com/?user=harshi2001m&theme=merko&hide_border=true&cache_seconds=86400" alt="harshi2001m's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=harshi2001m&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Hi 👋, I'm Harshi's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=harshi2001m&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Harshi's GitHub Trophies" />
 </p>
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
@@ -91,7 +100,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="mailto:harshi2001wanniarachchi@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Hi 👋, I'm Harshi's Email"/></a>&nbsp;&nbsp;
+  <a href="mailto:harshi2001wanniarachchi@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Harshi's Email"/></a>&nbsp;&nbsp;
   <a href="https://github.com/harshi2001m"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 
@@ -106,19 +115,3 @@
 <div align="center">
   <img src="none" alt="Bottom Line" width="100%" />
 </div>
-
-
-<!--
-**harshi2001m/harshi2001m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
