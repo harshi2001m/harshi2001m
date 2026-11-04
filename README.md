@@ -28,6 +28,10 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="mailto:harshi2001wanniarachchi@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Hi 👋, I'm Harshi's Email"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/harshi2001m"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+  <a href="mailto:harshi2001wanniarachchi@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/harshi2001m">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
 </p>
